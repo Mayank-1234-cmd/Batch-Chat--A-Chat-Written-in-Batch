@@ -1,13 +1,14 @@
 @echo off
-color 0b
+color 1f
 title Chat
 cls
 
-: Chat
+
 set /p x=Intro Message:
 title Chatting as %username% 
 echo %username% joined the chat at %date% %time%
 echo Intro Message: %x%
+: Chat
 cls
 echo Type 1 to send Hi, 2 to send How are you? , 3 to send yes, 4 to send no, and 5 to send bye(and exit the chat). Type 6 to view the chat. Type 7 to empty COMMENTS.txt
 set /p ChatInputxr=Chat:
