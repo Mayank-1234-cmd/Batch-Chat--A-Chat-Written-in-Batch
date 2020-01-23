@@ -1,4 +1,4 @@
-# batch-chat
+# Batch Chat - a Chat written in Batch
 A Chat written in batch (the programming language batch). Edit this file and insert Reccommendations below!
 # Recommandations
 >>Insert recommendations here...
