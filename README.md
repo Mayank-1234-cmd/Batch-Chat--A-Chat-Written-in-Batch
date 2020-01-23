@@ -1,4 +1,5 @@
 # batch-chat
-A Chat written in batch. Edit this file and insert Reccommendation below!
+A Chat written in batch (the programming language batch). Edit this file and insert Reccommendations below!
 # Recommandations
 >>Insert recommendations here...
+>> Example: I think batch chat should include ...
