@@ -1,12 +1,16 @@
 The Entertain12 License (made by me!!!) created Sunday, November 24, 2019
+
 If you are viewing this in notepad, you should turn word wrap on.
+
 Definitions
 When I refer to a Program [or Programs] I refer to the program(s) that you have installed that the terms and conditions apply too.
+
 When this page refers to violations, it refers to something against the terms and coditions.
 
+
 Misuse
-Entertain12's program misuse (Ex. Crashing Devices, Violationg terms and comditions,etc...) shall lead to a ban. 
-The person who misused the program shall be banned.
+
+Entertain12's program misuse is what you are responsible for. 
 
 Distribution and Modification
 Distribution and Modification is permitted AS LONG AS the creator is credited with the link wow.link/YSt. Modification is permitted but 
